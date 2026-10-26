@@ -1,1 +1,0 @@
-# Komputasi-Statistika-2-Numpy
